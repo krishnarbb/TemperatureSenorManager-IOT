@@ -24,7 +24,7 @@ mvn clean install
 
 
 ## To run the console application :
-cd building-monitor-master/building-monitor-console-app
+cd building-monitor-console-app
 
 mvn exec:java -Dexec.mainClass="consoleapp.Program"
 
