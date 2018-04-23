@@ -1,2 +1,2 @@
-Add Rest Interface as frontend for adding sensors to the System.
-. Provide a UI to display the Temperatures.
+-> Add Rest Interface as frontend for adding sensors to the System.
+-> Provide a UI to display the Temperatures.
