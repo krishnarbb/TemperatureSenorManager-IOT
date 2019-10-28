@@ -1,5 +1,8 @@
 # Multistorey building temperature monitor IOT system built using AKKA.
 
+## Architecture docs 
+* Refer to documents in design-docs folder
+
 
 ## Pre-requisites
 * Java 1.8 minimum
